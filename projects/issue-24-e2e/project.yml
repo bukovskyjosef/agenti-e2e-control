@@ -21,15 +21,15 @@
       {
         "runner_candidate_id": "claude-subscription",
         "status": "VERIFIED_NO_PAID_SPILLOVER",
-        "observed_at": "2026-09-21T20:22:00Z",
-        "valid_until": "2026-09-22T20:22:00Z",
+        "observed_at": "2026-09-21T20:58:00.000Z",
+        "valid_until": "2026-09-22T20:58:00.000Z",
         "source": {
           "kind": "ADMIN_POLICY_ATTESTATION",
           "trust": "EXTERNAL_CURRENT_EVIDENCE"
         },
         "attested_by": {
           "actor_id": 15156292,
-          "evidence_ref": "agenti-lab#24-comment:5767378854"
+          "evidence_ref": "agenti-lab#24:human-confirmation-2026-09-21T20:57Z"
         }
       }
     ]
