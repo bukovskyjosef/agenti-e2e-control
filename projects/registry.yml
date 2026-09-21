@@ -5,6 +5,11 @@
       "project_id": "kvazi",
       "project_control": "projects/kvazi/project.yml",
       "selected_profile": "manual"
+    },
+    "bukovskyjosef/agenti-e2e-product": {
+      "project_id": "issue-24-e2e",
+      "project_control": "projects/issue-24-e2e/project.yml",
+      "selected_profile": "automated"
     }
   }
 }
