@@ -15,5 +15,23 @@
       "MERGE"
     ]
   },
-  "product_truth_policy": "Disposable Issue #24 release-conformance sandbox. Product truth remains in this repository's Issue/PR state; this staging control file carries agent-control configuration only."
+  "product_truth_policy": "Disposable Issue #24 release-conformance sandbox. Product truth remains in this repository's Issue/PR state; this staging control file carries agent-control configuration only.",
+  "runner_evidence": {
+    "billing_safety": [
+      {
+        "runner_candidate_id": "claude-subscription",
+        "status": "VERIFIED_NO_PAID_SPILLOVER",
+        "observed_at": "2026-09-21T20:22:00Z",
+        "valid_until": "2026-09-22T20:22:00Z",
+        "source": {
+          "kind": "ADMIN_POLICY_ATTESTATION",
+          "trust": "EXTERNAL_CURRENT_EVIDENCE"
+        },
+        "attested_by": {
+          "actor_id": 15156292,
+          "evidence_ref": "agenti-lab#24-comment:5767378854"
+        }
+      }
+    ]
+  }
 }
